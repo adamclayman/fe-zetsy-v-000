@@ -51,3 +51,16 @@ a:link {
 a:hover #logo {
 	color: rgb(107, 128, 122);
 }
+
+#press {
+	
+}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	visibility: hidden;
+	height: 0;
+	line-height: 0;
+	clear: both;
+}
