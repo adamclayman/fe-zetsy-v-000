@@ -40,8 +40,6 @@ footer {
 }
 
 img {
-	border: 5px;
-	padding: 1px;
 	border-color: #ccc;
 }
 a:link {
@@ -49,6 +47,8 @@ a:link {
 }
 
 #press {
+	border: 5px;
+	padding: 1px;
 	border-color: #ccc;
 }
 
@@ -57,7 +57,7 @@ a:link {
 }
 
 #press {
-	
+
 }
 
 .clearfix:after {
