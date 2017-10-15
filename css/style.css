@@ -40,7 +40,8 @@ footer {
 
 img {
 	border: 5px;
-	border-color: rgb(151, 173, 168);
+	padding: 1px;
+	border-color: #ccc;
 }
 
 a:hover img {
