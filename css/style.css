@@ -27,6 +27,7 @@ body {
 	font: Baskerville, sans-serif;
 	font-style: thin;
 	font-size: 3em;
+	display: inline-block;
 }
 
 h1, h2 {
