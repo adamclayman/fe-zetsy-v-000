@@ -47,7 +47,3 @@ img {
 a:hover #logo {
 	color: rgb(107, 128, 122);
 }
-
-a:visited {
-	text-decoration: none;
-}
