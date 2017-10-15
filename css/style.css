@@ -37,3 +37,12 @@ footer {
 	float: right;
 	clear: both;
 }
+
+img {
+	border: 1px;
+	border-color: rgb(151, 173, 168); 
+}
+
+a:hover img {
+	border-color: rgb(107, 128, 122);
+}
