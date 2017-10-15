@@ -44,6 +44,10 @@ img {
 	border-color: #ccc;
 }
 
+a:hover {
+	color: rgb(107, 128, 122);
+}
+
 a:hover img {
 	border-color: rgb(107, 128, 122);
 }
