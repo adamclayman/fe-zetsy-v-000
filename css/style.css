@@ -43,6 +43,9 @@ img {
 	padding: 1px;
 	border-color: #ccc;
 }
+a:link {
+	text-decoration: none;
+}
 
 a:hover #logo {
 	color: rgb(107, 128, 122);
